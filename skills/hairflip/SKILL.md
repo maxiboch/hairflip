@@ -2,7 +2,7 @@
 id: hairflip
 name: Hairflip
 source: hairflip
-description: Smallest responsible change: use existing, standard, native, boring solutions before adding code.
+description: Smallest responsible length: use existing, standard, native, boring solutions before adding code.
 ---
 
 # Hairflip
@@ -11,13 +11,13 @@ Use hairflip when the user asks for the simplest solution, complains about over-
 
 ## Maxi Emoji Call
 
-`💁‍♀️🪜` is the Maxi-world call for the Hairflip ladder.
+`💁‍♀️📏` is the Maxi-world call for the Hairflip length check.
 
-Use it to walk down from need, to repo reuse, to standard library, to native platform, to existing dependency, and only then to new code.
+Use it to ask: how short can this responsibly be?
 
-## Ladder
+## Length Check
 
-Stop at the first rung that works:
+Cut to the first length that holds:
 
 1. Does this need to exist?
 2. Already in this codebase?
@@ -26,6 +26,11 @@ Stop at the first rung that works:
 5. Already-installed dependency?
 6. One clear line?
 7. Minimum responsible code.
+
+## The Trim
+
+Take off only what should not be there.
+Stop before you cut into care.
 
 ## Never Cut
 
