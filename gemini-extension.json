@@ -1,0 +1,9 @@
+{
+  "name": "hairflip",
+  "version": "0.1.0",
+  "description": "Smallest responsible change skills for coding agents.",
+  "skills": [
+    "skills"
+  ]
+}
+
