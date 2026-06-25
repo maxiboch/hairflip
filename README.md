@@ -1,6 +1,6 @@
 # 💁‍♀️ Hairflip
 
-Smallest responsible change.
+Smallest responsible length.
 
 Hairflip is a skill for removing avoidable software burden. It asks an agent to prefer the existing, standard, native, boring, and already-tested path before adding new code.
 
@@ -18,9 +18,9 @@ John Gall systems writing gives it the suspicion of designed-from-scratch comple
 
 Lean Software Development also matters here: unused features, partially done work, extra process, waiting, defects, and handoffs are all waste. Hairflip treats extra abstractions and speculative extension points as inventory someone has to store, debug, document, and remember.
 
-## The Ladder
+## Length Check
 
-Stop at the first rung that works:
+Cut to the first length that holds:
 
 1. Does this need to exist?
 2. Already in this codebase?
@@ -29,6 +29,14 @@ Stop at the first rung that works:
 5. Already-installed dependency?
 6. One clear line?
 7. Minimum responsible code.
+
+## The Trim
+
+Take off only what should not be there.
+Stop before you cut into care.
+
+`💁‍♀️📏` is the length check: how short can this responsibly be?
+`💁‍♀️✂️` is the haircut review: what needs trimming?
 
 ## Never Cut
 
@@ -44,8 +52,8 @@ Small code is not the goal. The burden never created is the goal.
 
 ## Skills
 
-- `hairflip`: smallest responsible change.
-- `hairflip-review`: review for code that can be removed, reused, delegated to stdlib/platform, or simplified.
+- `hairflip`: smallest responsible length.
+- `hairflip-review`: haircut review for code that can be removed, reused, delegated to stdlib/platform, or simplified.
 
 ## Sources and Hat Tips
 
